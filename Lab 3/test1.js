@@ -18,3 +18,5 @@ for (var i = 0 ; i < (name.length-1)/2 ; i++) {
 
 }
 }
+
+palindrome();
